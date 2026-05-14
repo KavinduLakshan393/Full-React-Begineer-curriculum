@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow .gitignore
+!.gitignore
+
+# Allow Curriculum PDF directory
+!Curriculum PDF/
+
+# Allow curriculum directory
+!curriculum/
