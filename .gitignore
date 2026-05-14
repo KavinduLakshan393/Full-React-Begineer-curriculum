@@ -4,8 +4,10 @@
 # But allow .gitignore
 !.gitignore
 
-# Allow Curriculum PDF directory
+# Allow Curriculum PDF directory and its contents
 !Curriculum PDF/
+!Curriculum PDF/**
 
-# Allow curriculum directory
+# Allow curriculum directory and its contents
 !curriculum/
+!curriculum/**
