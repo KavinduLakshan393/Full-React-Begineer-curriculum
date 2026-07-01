@@ -11,3 +11,5 @@
 # Allow curriculum directory and its contents
 !curriculum/
 !curriculum/**
+!Sinhala Notes/
+!Sinhala Notes/**
